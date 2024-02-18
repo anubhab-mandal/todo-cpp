@@ -32,5 +32,5 @@ How can you make this better?
 -------------------------------
 if you can, commit and add a save function, and an edit function for the imported and newly written lists.
 
-Auf wiedersehen!
+auf Wiedersehen!
 ----------------
