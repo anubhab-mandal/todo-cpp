@@ -1,5 +1,5 @@
 # TODO-CPP
-ToDo list in terminal interface written in C++ with a progress bar. (Error handling not that great, please help.)
+ToDo list in terminal interface written in C++ with a progress bar.
 
 Installation
 ------------
@@ -12,25 +12,9 @@ Installation
 <br>
 That will build the executable in your native architecture.
 
-Libraries used
---------------
-iostream <br>
-vector <br>
-string <br>
-iomanip <br>
-fstream <br>
-chrono <br>
-thread <br>
-stdexcept <br>
-filesystem <br>
-
-Error Handling
-----------------
-yeah, about that, not that good. do contribute.
-
 How can you make this better?
 -------------------------------
-if you can, commit and add a save function, and an edit function for the imported and newly written lists.
+if you can, commit and add a save function, or an edit function for the imported and newly written lists, that would be great!
 
 auf Wiedersehen!
 ----------------
